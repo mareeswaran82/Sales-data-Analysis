@@ -4,4 +4,5 @@
 ---
 # Key Visualizations
   1. Total Sales based on product
-  ![Product barplot](https://github.com/mareeswaran82/Sales-data-Analysis/tree/main/images)
+
+  ![Product barplot](https://github.com/mareeswaran82/Sales-data-Analysis/blob/main/images/Sales%20wise%20category.png)
