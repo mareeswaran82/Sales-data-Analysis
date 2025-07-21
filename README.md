@@ -10,3 +10,7 @@
   2.Total Sales based on Categories
 
   ![Category barplot](https://github.com/mareeswaran82/Sales-data-Analysis/blob/main/images/product%20wise%20sales.png)
+
+  3.Variable Relationship Heatmap
+
+  ![heatmap](https://github.com/mareeswaran82/Sales-data-Analysis/blob/main/images/heatmap.png)
