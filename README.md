@@ -3,3 +3,4 @@
 
 ---
 # Key Visualizations
+  1. Total Sales based on product
