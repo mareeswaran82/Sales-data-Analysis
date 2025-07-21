@@ -14,3 +14,6 @@
   3.Variable Relationship Heatmap
 
   ![heatmap](https://github.com/mareeswaran82/Sales-data-Analysis/blob/main/images/heatmap.png)
+
+  ---
+  
