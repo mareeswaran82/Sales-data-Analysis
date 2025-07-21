@@ -16,4 +16,9 @@
   ![heatmap](https://github.com/mareeswaran82/Sales-data-Analysis/blob/main/images/heatmap.png)
 
   ---
-  
+  # Tools Used  
+  - Python (Pandas,NumPy,Matplotlib,Seaborn)
+  - Google Colab
+  - Dataset from Kaggle
+
+   ---
