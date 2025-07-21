@@ -21,4 +21,11 @@
   - Google Colab
   - Dataset from Kaggle
 
+  ---
+  # Key insights
+  - Electronics and clothes categories dominates sales volume,indicating high customer demand.
+  - smartphone is the most sold product,making them top-performing items.
+  - Revenue is positively correlated with quantity and price.
+  - Most orders fall under moderate price ranges,with few outliers in high-value items.
+
    ---
