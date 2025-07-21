@@ -6,3 +6,7 @@
   1. Total Sales based on product
 
   ![Product barplot](https://github.com/mareeswaran82/Sales-data-Analysis/blob/main/images/Sales%20wise%20category.png)
+
+  2.Total Sales based on Categories
+
+  ![Category barplot](https://github.com/mareeswaran82/Sales-data-Analysis/blob/main/images/product%20wise%20sales.png)
